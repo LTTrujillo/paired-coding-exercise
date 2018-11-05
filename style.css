@@ -1,0 +1,47 @@
+
+
+.header{
+    background-color: chartreuse;
+    flex-direction: column
+    
+}
+
+.navbar{
+    background-color:green;
+    display: flex;
+    justify-content: flex-end; 
+}
+.indent{
+    background-color: chartreuse;
+}
+
+.maincontent{
+    margin-right:150px;
+    margin-left:150px;
+    display: flex;
+    flex-direction:row;
+     
+
+
+}
+.imgage-box{
+    display:flex;
+    flex-direction: row;
+    padding-right:400px
+}
+
+.box{
+    background-color: aliceblue;
+    font-weight: bolder;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    border: 25px;
+    border-color: green;
+    margin: 25px;
+    
+
+}
+
+
+
